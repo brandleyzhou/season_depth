@@ -1,1 +1,1 @@
-# season_depth
+#This repo is for [SeasonDepth Challenge](http://seasondepth-challenge.org/index/)
